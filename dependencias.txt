@@ -1,0 +1,45 @@
+# Navegación
+npm install @react-navigation/native
+npm install @react-navigation/native-stack
+npm install @react-navigation/bottom-tabs
+
+# Requisitos de navegación (gestos y animaciones)
+expo install react-native-screens react-native-safe-area-context
+expo install react-native-gesture-handler react-native-reanimated
+
+# SQLite (almacenamiento local)
+expo install expo-sqlite
+
+# Mapas
+expo install react-native-maps
+
+# Multimedia (videos e imágenes)
+expo install expo-av
+expo install expo-image-picker
+
+# Permisos y ubicación
+expo install expo-location expo-permissions
+
+# Íconos
+expo install @expo/vector-icons
+
+# Manejo de links (para Telegram, teléfono, etc.)
+expo install expo-linking
+
+# AsyncStorage (opcional para recordar sesión)
+expo install @react-native-async-storage/async-storage
+
+
+npm install react-native-swiper
+
+npm install @react-navigation/bottom-tabs
+npm install @react-navigation/native-stack
+expo install expo-av
+
+npm install react-native-youtube-iframe
+expo install react-native-webview
+expo install react-native-maps
+expo install expo-linking
+expo install expo-image-picker expo-location
+npm install @react-navigation/drawer
+
